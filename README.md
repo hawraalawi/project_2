@@ -96,5 +96,8 @@ Key columns in the final cleaned dataset:
 
 ![Wind Speed vs Electricity Rate by Region](Presentation/images/viz2_wind_vs_rate.png)
 
-![Wind Speed vs Electricity Rate - Combined View](Presentation/images/viz3_scatter.png)
- 
+![Net Generation vs Electricity Rate by Region](Presentation/images/viz3_scatter_netgen_vs_rate.png)
+
+![Median Estimated Net Generation (MWh/year) by Census Region](Presentation/images/viz4_net_generation.png)
+
+![Rotor Diameter vs Net Generation](Presentation/images/viz5_rotor_vs_netgen.png)
