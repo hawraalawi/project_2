@@ -29,10 +29,9 @@ The analysis found that the **Midwest** has both the largest total installed win
 | `Data/average_electricity_rates.csv` | Original state-level average electricity rates. |
 | `Data/average_electricity_bills.csv` | Original state-level average electricity bills. |
 | `Data/wind_turbines_clean.csv` | Final cleaned and merged dataset used for analysis. |
-| `Code/01_Data_Cleaning.ipynb` | Data loading, cleaning, and merging of all four source files. |
-| `Presentation/Wind_Turbine_Investment_Analysis.pdf` | Final presentation slides. |
+| `Code/EDA_Report_Project.ipynb` | Data loading, cleaning, and merging of all four source files. |
+| `Presentation/Wind_Turbine_Investment_Presentation.pdf` | Final presentation slides. |
 
-*(Note: adjust the file/folder names above to exactly match your repository if they differ.)*
 
 ## Data & Data Dictionary
 
